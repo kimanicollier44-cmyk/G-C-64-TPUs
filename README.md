@@ -1,3 +1,5 @@
+![G-C-64-TPUs Cover](assets/cover.png)
+
 ## G-C-64-TPUS 🚀
 
 <!-- 🛠️ Architecture, Core Components & Profile Badges -->
